@@ -70,6 +70,9 @@
                                         <state key="normal" title="GREEN">
                                             <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                         </state>
+                                        <connections>
+                                            <action selector="colorButtonTappedWithSender:" destination="oDJ-5b-XZl" eventType="touchUpInside" id="8Gv-lB-A2O"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nzs-eH-b8n">
                                         <rect key="frame" x="0.0" y="120.5" width="375" height="120.5"/>
@@ -78,6 +81,9 @@
                                         <state key="normal" title="YELLOW">
                                             <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                         </state>
+                                        <connections>
+                                            <action selector="colorButtonTappedWithSender:" destination="oDJ-5b-XZl" eventType="touchUpInside" id="wIs-ou-vRv"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jcR-dI-F3Q">
                                         <rect key="frame" x="0.0" y="241" width="375" height="121"/>
@@ -86,6 +92,9 @@
                                         <state key="normal" title="BLUE">
                                             <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                         </state>
+                                        <connections>
+                                            <action selector="colorButtonTappedWithSender:" destination="oDJ-5b-XZl" eventType="touchUpInside" id="YuZ-wl-AIZ"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WDa-6I-qw8">
                                         <rect key="frame" x="0.0" y="362" width="375" height="120.5"/>
@@ -94,6 +103,9 @@
                                         <state key="normal" title="RED">
                                             <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                         </state>
+                                        <connections>
+                                            <action selector="colorButtonTappedWithSender:" destination="oDJ-5b-XZl" eventType="touchUpInside" id="3BP-XV-9oX"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dX2-lc-b37">
                                         <rect key="frame" x="0.0" y="482.5" width="375" height="120.5"/>
@@ -102,6 +114,9 @@
                                         <state key="normal" title="PURPLE">
                                             <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                         </state>
+                                        <connections>
+                                            <action selector="colorButtonTappedWithSender:" destination="oDJ-5b-XZl" eventType="touchUpInside" id="ugP-0Z-FCp"/>
+                                        </connections>
                                     </button>
                                 </subviews>
                             </stackView>

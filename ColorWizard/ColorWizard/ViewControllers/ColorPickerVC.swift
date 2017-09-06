@@ -14,5 +14,9 @@ class ColorPickerVC: UIViewController {
         super.viewDidLoad()
 
     }
-    
+    @IBAction func colorButtonTapped(sender: UIButton) {
+        
+        print(sender.titleLabel?.text!)
+        
+    }
 }
